@@ -29,7 +29,7 @@
 ## نصب
 
 ```bash
-git clone https://github.com/yourusername/ovpn-bulk-tester
+git clone https://github.com/siniorone/ovpn-bulk-tester
 cd ovpn-bulk-tester
 chmod +x ovpn_tester.sh
 ```

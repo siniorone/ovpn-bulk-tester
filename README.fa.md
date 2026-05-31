@@ -1,7 +1,10 @@
 # تستر گروهی OpenVPN
 یک اسکریپت bash برای لینوکس که به صورت خودکار فایل‌های `.ovpn` را تست می‌کند و سرورهای کارآمد را پیدا می‌کند.
 ---
-### [English Guide](https://github.com/siniorone/ovpn-bulk-tester/README.md)|[راهنمای فارسی](https://github.com/siniorone/ovpn-bulk-tester/README.fa.md)
+
+
+### [English Guide](https://github.com/siniorone/ovpn-bulk-tester/blob/main/README.md)|[راهنمای فارسی](https://github.com/siniorone/ovpn-bulk-tester/blob/main/README.fa.md)
+<img width="515" height="349" alt="Screenshot From 2026-05-31 22-37-37" src="https://github.com/user-attachments/assets/a2b52bb1-9081-488d-9b3d-4c1ccd1b3c95" />
 ---
 
 ## قابلیت‌ها
